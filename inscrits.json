@@ -41,6 +41,13 @@
       "image": "http://www.virtual-golf-club.com/images/golf-800x600.png",
       "genre": "Jeu de gestion et de stratégie",
       "id_thread": 11482
-    }
+    },
+    {
+      "name": "Active Fighting Club",
+      "url": "http://www.fighting-club.fr/",
+      "image": "http://s1.fighting-club.fr/images/afc-800x500.jpg",
+      "genre": "Jeu de gestion et de stratégie",
+      "id_thread": 12589
+    },
   ]
 }
